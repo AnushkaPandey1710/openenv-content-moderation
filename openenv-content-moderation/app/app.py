@@ -109,4 +109,12 @@ https://your-space-url/reset
 
 👉 Must return JSON
 
+Common Mistakes (VERY IMPORTANT)
+
+❌ Wrong port (must be 7860)
+❌ Wrong path (app.app:app)
+❌ Returning non-JSON
+❌ Not handling POST properly
+❌ Missing endpoints
+
 
