@@ -1,2 +1,15 @@
-# openenv-content-moderation
-A modular OpenEnv-based framework for evaluating AI content moderation systems with custom environments, baselines, and automated scoring pipelines.
+# OpenEnv Content Moderation
+
+A modular framework to **simulate, evaluate, and benchmark AI content moderation systems** using OpenEnv.
+
+## Features
+
+- Plug-and-play moderation environment
+- Evaluation pipeline with scoring system
+- Baseline moderation model
+- Docker-ready setup
+- CI/CD with automated evaluation
+
+---
+
+## Project Structure
